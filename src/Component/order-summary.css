@@ -1,0 +1,116 @@
+
+.order-summary {
+  background-color: rgb(79, 179, 241);
+  color: whitesmoke;
+  padding-top: 15px;
+  padding-bottom: 78px;
+}
+
+.restaurant-details {
+  padding-left: 450px;
+}
+
+.restaurant-name {
+  margin-bottom: -15px;
+  font-size: 60px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.restaurant-address {
+  margin-bottom: -15px;
+  font-family: "Courier New", Courier, monospace;
+
+}
+
+.address {
+  display: flex;
+}
+
+#res {
+  padding-left: 12px;
+}
+
+#res2 {
+  padding-left: 12px;
+}
+
+.zip-code {
+  padding-left: 110px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.customer-details {
+  margin-left: 40px;
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 40px;
+}
+
+.items {
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 4px;
+  padding-top: 17px;
+  padding-left: 10px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.back {
+  text-decoration: none;
+}
+
+.backtext {
+  margin-left: 6px;
+  background-color: white;
+  color: black;
+  font-size: x-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 160px;
+  height: 30px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.taxation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  padding: 20px;
+  width: 600px;
+  margin: 33px auto;
+  color: rgb(79, 179, 241);
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 300;
+  border-radius: 4px;
+}
+
+.like {
+  display: flex;
+  align-items: center;
+}
+
+.dislike {
+  display: flex;
+  align-items: center;
+}
+
+.space {
+  padding-right: 14px;
+}
+
+
+
+
+
+
+
